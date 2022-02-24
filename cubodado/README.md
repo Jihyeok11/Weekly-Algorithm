@@ -15,6 +15,7 @@
 | [10828](https://www.acmicpc.net/problem/10828) |     [스택](https://www.acmicpc.net/problem/10828)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10828.py](https://github.com/cubodado/Weekly-Algorithm/blob/main/cubodado/week1/10828.py) | 2022-02-22 |
 |  [9012](https://www.acmicpc.net/problem/9012)  |     [괄호](https://www.acmicpc.net/problem/9012)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9012.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week1/9012.py) | 2022-02-22 |
 | [10866](https://www.acmicpc.net/problem/10866) |      [덱](https://www.acmicpc.net/problem/10866)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10866.py](https://github.com/cubodado/Weekly-Algorithm/commit/0af75e4078186657fd7a45755dff1be8c0dcda74) | 2022-02-22 |
+|  [1935](https://www.acmicpc.net/problem/1935)  | [후위 표기식2](https://www.acmicpc.net/problem/1935)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1935.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week1/1935.py) | 2022-02-24 |
 
 
 
