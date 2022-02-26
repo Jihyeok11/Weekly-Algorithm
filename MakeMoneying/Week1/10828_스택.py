@@ -28,4 +28,3 @@ for _ in range(n):
             print(basket[-1])
         else:
             print(-1)
-        
