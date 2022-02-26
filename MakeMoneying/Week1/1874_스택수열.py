@@ -29,4 +29,5 @@ for _ in range(n):
         answer.append("-")
         basket.pop()
 if not flag:
-    print(answer)
+    for w in answer:
+        print(w)
