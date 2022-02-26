@@ -10,13 +10,13 @@ for _ in range(n):
         if w == '(':
             basket.append(w)
         else:
-            if basket and basket[-1] == '(':
+            if basket and basket[-1] == '(': # basket에 '('가 남아잇을 때
                 basket.pop()
             else:
                 print('NO')
                 break
     else:
-        if basket:
+        if basket: # basket에 아직 남아 있으면 No
             print('NO')
         else:
             print('YES')
