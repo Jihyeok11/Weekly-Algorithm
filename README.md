@@ -65,6 +65,26 @@
 
 ## 🗓️ This Week
 
+<<<<<<< HEAD
+=======
+### ✨ 2022.02.28 - 2022.03.06 ✨
+
+#### Data Structure 1(끝!)
+
+|                    문제 번호                     |                       문제 이름                       |                            난이도                            |
+| :----------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------------: |
+|  [4949번](https://www.acmicpc.net/problem/4949)  | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+|  [3986번](https://www.acmicpc.net/problem/3986)  |   [좋은 단어](https://www.acmicpc.net/problem/3986)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+| [10799번](https://www.acmicpc.net/problem/10799) |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+|  [1966번](https://www.acmicpc.net/problem/1966)  |   [프린터 큐](https://www.acmicpc.net/problem/1966)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+|  [2346번](https://www.acmicpc.net/problem/2346)  | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+|  [5397번](https://www.acmicpc.net/problem/5397)  |    [키로커](https://www.acmicpc.net/problem/5397)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+|  [2504번](https://www.acmicpc.net/problem/2504)  |   [괄호의 값](https://www.acmicpc.net/problem/2504)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+|  [2800번](https://www.acmicpc.net/problem/2800)  |   [괄호 제거	](https://www.acmicpc.net/problem/2800)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+
+
+
+>>>>>>> parent of ad82e60 (정리중)
 ### ✨ 2022.02.21 - 2022.02.27 ✨
 
 #### `Data Structure`
