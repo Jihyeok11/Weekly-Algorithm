@@ -6,10 +6,11 @@
 
 ### 🏷️ Data Structure
 
-|                  문제 번호                   |   문제 이름   |                            난이도                            |                          문제 풀이                           | 풀이 날짜  |
-| :------------------------------------------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
-| [4949](https://www.acmicpc.net/problem/4949) | 균형잡힌 세상 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4949.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week2/4949.py) | 2022-03-11 |
-| [3986](https://www.acmicpc.net/problem/3986) |   좋은 단어   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [3986.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week2/3986.py) | 2022-03-11 |
+|                   문제 번호                    |   문제 이름   |                            난이도                            |                          문제 풀이                           | 풀이 날짜  |
+| :--------------------------------------------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  [4949](https://www.acmicpc.net/problem/4949)  | 균형잡힌 세상 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4949.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week2/4949.py) | 2022-03-11 |
+|  [3986](https://www.acmicpc.net/problem/3986)  |   좋은 단어   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [3986.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week2/3986.py) | 2022-03-11 |
+| [10799](https://www.acmicpc.net/problem/10799) |   쇠막대기    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10799.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week2/10799.py) | 2022-03-11 |
 
 <br/>
 
