@@ -1,0 +1,24 @@
+5
+a<<<<<-
+<<a>>c--d-e
+<<<a<b<c<d>-
+<<BP<A->>Cd-
+ThIsIsS3Cr3t
+[   
+    a
+    e
+    dba
+    BAPC
+    ThIsIsS3Cr3t
+]
+4
+Baek<<<-
+C<B<A<---
+C3C
+C<B<A>>--
+[
+    aek
+    ABC
+    C3C
+    A
+]
