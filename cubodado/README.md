@@ -10,12 +10,19 @@
 | :--------------------------------------------: | :-------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
 |  [1620](https://www.acmicpc.net/problem/1620)  | 나는야 포켓몬 마스터 이다솜 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1620.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1620.py) | 2022-03-15 |
 | [14425](https://www.acmicpc.net/problem/14425) |         문자열 집합         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [14425.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/14425.py) | 2022-03-15 |
+|  [1269](https://www.acmicpc.net/problem/1269)  |         대칭 차집합         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1269.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1269.py) | 2022-03-15 |
 
 #### `1620`
 
 * 딕셔너리로 key, value 사용해서 풀었다가 시간 초과
 * 그러고 곰곰히 생각해보니 그냥 리스트의 인덱스만 사용해도 되는 문제
 * 딕셔너리 전부 없애고 입력값으로 받은 리스트로만 사용하니 통과
+
+#### `1269`
+
+* 이전에 어떤 자료형으로는 빼기 더하기가 가능했던 거 같아서 tuple인가 싶어서 했는데 실패
+* 그래서 for문으로 체크해서 하니 시간초과
+* tuple이 아니라 set이었고... set으로 하니 통과
 
 ## 🗓️ week2
 
