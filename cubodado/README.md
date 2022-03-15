@@ -6,9 +6,10 @@
 
 ### 🏷️ Data Structure
 
-|                  문제 번호                   |          문제 이름          |                            난이도                            |                          문제 풀이                           | 풀이 날짜  |
-| :------------------------------------------: | :-------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
-| [1620](https://www.acmicpc.net/problem/1620) | 나는야 포켓몬 마스터 이다솜 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1620.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1620.py) | 2022-03-15 |
+|                   문제 번호                    |          문제 이름          |                            난이도                            |                          문제 풀이                           | 풀이 날짜  |
+| :--------------------------------------------: | :-------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  [1620](https://www.acmicpc.net/problem/1620)  | 나는야 포켓몬 마스터 이다솜 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1620.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1620.py) | 2022-03-15 |
+| [14425](https://www.acmicpc.net/problem/14425) |         문자열 집합         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [14425.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/14425.py) | 2022-03-15 |
 
 #### `1620`
 
