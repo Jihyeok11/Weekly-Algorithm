@@ -12,6 +12,7 @@
 | [14425](https://www.acmicpc.net/problem/14425) |         문자열 집합         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [14425.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/14425.py) | 2022-03-15 |
 |  [1269](https://www.acmicpc.net/problem/1269)  |         대칭 차집합         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1269.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1269.py) | 2022-03-15 |
 |  [1927](https://www.acmicpc.net/problem/1927)  |           최소 힙           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1927.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1927.py) | 2022-03-16 |
+| [11279](https://www.acmicpc.net/problem/11279) |           최대 힙           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11279.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/11279.py) | 2022-03-16 |
 
 #### `1620`
 
@@ -29,6 +30,12 @@
 
 * [리스트의 min 값 찾기 -> 해당 min 값의 인덱스 찾기 -> 해당 인덱스 리스트에서 pop 하기 -> 리스트 인덱스 재정렬] 순서 거치게 코드 짜니 시간 초과
 * heapq 모듈 사용해서 빠르게 사용/통과
+
+#### `11279`
+
+* `1927` 에서 사용한 heaqp 모듈 사용
+* 다만 heaqp는 최소힙으로 구현되어 있기 때문에, heaqp에 값을 넣을 때 (-값, 값) 으로 추가
+* 튜플의 첫 번째 값으로 최소힙 구성하면서, 두 번째 원소는 자연스럽게 내림차순으로 정렬
 
 ## 🗓️ week2
 
