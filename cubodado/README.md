@@ -14,6 +14,7 @@
 |  [1927](https://www.acmicpc.net/problem/1927)  |           최소 힙           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1927.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1927.py) | 2022-03-16 |
 | [11279](https://www.acmicpc.net/problem/11279) |           최대 힙           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11279.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/11279.py) | 2022-03-16 |
 | [19583](https://www.acmicpc.net/problem/19583) |       싸이버개강총회        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [19583.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/19583.py) | 2022-03-16 |
+| [11286](https://www.acmicpc.net/problem/11286) |          절댓값 힙          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11286.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/11286.py) | 2022-03-16 |
 
 #### `1620`
 
@@ -43,6 +44,11 @@
 * 종료 조건을 EOF로 줘야 해서 이 부분 찾느라 시간 다 씀
 * try-catch문으로 종료 조건 줬는데 VScode에서는 적용 안됨
 * 근데 백준에 제출하면 통과됨...
+
+#### `11286`
+
+* `11279` 와 동일한 방식으로 heaqp에 값 추가
+* 다만 이번에는 값이 음수인지 양수인지에 따라서 분기해 값 추가
 
 ## 🗓️ week2
 
