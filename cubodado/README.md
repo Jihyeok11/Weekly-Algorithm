@@ -11,6 +11,7 @@
 |  [1620](https://www.acmicpc.net/problem/1620)  | 나는야 포켓몬 마스터 이다솜 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1620.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1620.py) | 2022-03-15 |
 | [14425](https://www.acmicpc.net/problem/14425) |         문자열 집합         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [14425.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/14425.py) | 2022-03-15 |
 |  [1269](https://www.acmicpc.net/problem/1269)  |         대칭 차집합         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1269.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1269.py) | 2022-03-15 |
+|  [1927](https://www.acmicpc.net/problem/1927)  |           최소 힙           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1927.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1927.py) | 2022-03-16 |
 
 #### `1620`
 
@@ -21,8 +22,13 @@
 #### `1269`
 
 * 이전에 어떤 자료형으로는 빼기 더하기가 가능했던 거 같아서 tuple인가 싶어서 했는데 실패
-* 그래서 for문으로 체크해서 하니 시간초과
+* 그래서 for문으로 체크해서 하니 시간 초과
 * tuple이 아니라 set이었고... set으로 하니 통과
+
+#### `1927`
+
+* [리스트의 min 값 찾기 -> 해당 min 값의 인덱스 찾기 -> 해당 인덱스 리스트에서 pop 하기 -> 리스트 인덱스 재정렬] 순서 거치게 코드 짜니 시간 초과
+* heapq 모듈 사용해서 빠르게 사용/통과
 
 ## 🗓️ week2
 
