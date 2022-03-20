@@ -9,6 +9,24 @@
 
 ## 🗓️ This Week
 
+### ✨ 2022.03.21 - 2022.03.27 ✨
+
+#### `Tree`
+
+|                    문제 번호                     |                          문제 이름                           |                            난이도                            |
+| :----------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  [9372번](https://www.acmicpc.net/problem/9372)  | [상근이의 여행](https://www.acmicpc.net/problem/9372) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| [11725번](https://www.acmicpc.net/problem/11725) |     [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+|  [20364번](https://www.acmicpc.net/problem/20364)  |     [부동산 다툼](https://www.acmicpc.net/problem/20364)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+|  [15900번](https://www.acmicpc.net/problem/15900)  |       [나무 탈출](https://www.acmicpc.net/problem/15900)        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| [1991번](https://www.acmicpc.net/problem/1991) |       [트리 순회](https://www.acmicpc.net/problem/1991)       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| [9934번](https://www.acmicpc.net/problem/9934) |   [완전 이진 트리](https://www.acmicpc.net/problem/9934)    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| [1068번](https://www.acmicpc.net/problem/1068) |      [트리](https://www.acmicpc.net/problem/1068)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+
+
+<br/>
+## 🗓️ Previous Weeks
+
 ### ✨ 2022.03.14 - 2022.03.21 ✨
 
 #### `Data Structure`
@@ -26,7 +44,6 @@
 
 <br/>
 
-## 🗓️ Previous Weeks
 
 ### ~~✨ 2022.02.28 - 2022.03.06 ✨~~
 
