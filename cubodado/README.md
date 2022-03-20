@@ -11,6 +11,11 @@
 |  [1620](https://www.acmicpc.net/problem/1620)  | 나는야 포켓몬 마스터 이다솜 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1620.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1620.py) | 2022-03-15 |
 | [14425](https://www.acmicpc.net/problem/14425) |         문자열 집합         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [14425.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/14425.py) | 2022-03-15 |
 |  [1269](https://www.acmicpc.net/problem/1269)  |         대칭 차집합         | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1269.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1269.py) | 2022-03-15 |
+|  [1927](https://www.acmicpc.net/problem/1927)  |           최소 힙           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1927.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/1927.py) | 2022-03-16 |
+| [11279](https://www.acmicpc.net/problem/11279) |           최대 힙           | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11279.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/11279.py) | 2022-03-16 |
+| [19583](https://www.acmicpc.net/problem/19583) |       싸이버개강총회        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [19583.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/19583.py) | 2022-03-16 |
+| [11286](https://www.acmicpc.net/problem/11286) |          절댓값 힙          | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11286.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/11286.py) | 2022-03-16 |
+| [11286](https://www.acmicpc.net/problem/4358)  |           생태학            | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [4358.py](https://github.com/cubodado/Weekly-Algorithm/blob/cubodado/cubodado/week3/4358.py) | 2022-03-17 |
 
 #### `1620`
 
@@ -21,8 +26,38 @@
 #### `1269`
 
 * 이전에 어떤 자료형으로는 빼기 더하기가 가능했던 거 같아서 tuple인가 싶어서 했는데 실패
-* 그래서 for문으로 체크해서 하니 시간초과
+* 그래서 for문으로 체크해서 하니 시간 초과
 * tuple이 아니라 set이었고... set으로 하니 통과
+
+#### `1927`
+
+* [리스트의 min 값 찾기 -> 해당 min 값의 인덱스 찾기 -> 해당 인덱스 리스트에서 pop 하기 -> 리스트 인덱스 재정렬] 순서 거치게 코드 짜니 시간 초과
+* heapq 모듈 사용해서 빠르게 사용/통과
+
+#### `11279`
+
+* `1927` 에서 사용한 heaqp 모듈 사용
+* 다만 heaqp는 최소힙으로 구현되어 있기 때문에, heaqp에 값을 넣을 때 (-값, 값) 으로 추가
+* 튜플의 첫 번째 값으로 최소힙 구성하면서, 두 번째 원소는 자연스럽게 내림차순으로 정렬
+
+#### `19583`
+
+* 종료 조건을 EOF로 줘야 해서 이 부분 찾느라 시간 다 씀
+* try-catch문으로 종료 조건 줬는데 VScode에서는 적용 안됨
+* 근데 백준에 제출하면 통과됨...
+
+#### `11286`
+
+* `11279` 와 동일한 방식으로 heaqp에 값 추가
+* 다만 이번에는 값이 음수인지 양수인지에 따라서 분기해 값 추가
+
+#### `4358`
+
+* [입력값 저장한 배열]과 [그 배열을 정렬한 배열] 두 개 쓰고
+
+  입력값 저장한 배열에서 몇개가 있는지 count 함수로 세면서 시간 초과
+
+* 딕셔너리로 값 받고, 전체 나무 개수는 cnt 변수로 세고, key로 value값 찾아서 값 출력하면서 통과
 
 ## 🗓️ week2
 
