@@ -7,6 +7,83 @@
 
 <br/>
 
+## 🗓️ This Week
+
+### ✨ 2022.03.21 - 2022.03.27 ✨
+
+#### `Tree`
+
+|                    문제 번호                     |                          문제 이름                           |                            난이도                            |
+| :----------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  [9372번](https://www.acmicpc.net/problem/9372)  | [상근이의 여행](https://www.acmicpc.net/problem/9372) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| [11725번](https://www.acmicpc.net/problem/11725) |     [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+|  [20364번](https://www.acmicpc.net/problem/20364)  |     [부동산 다툼](https://www.acmicpc.net/problem/20364)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+|  [15900번](https://www.acmicpc.net/problem/15900)  |       [나무 탈출](https://www.acmicpc.net/problem/15900)        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| [1991번](https://www.acmicpc.net/problem/1991) |       [트리 순회](https://www.acmicpc.net/problem/1991)       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| [9934번](https://www.acmicpc.net/problem/9934) |   [완전 이진 트리](https://www.acmicpc.net/problem/9934)    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| [1068번](https://www.acmicpc.net/problem/1068) |      [트리](https://www.acmicpc.net/problem/1068)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+
+
+<br/>
+
+## 🗓️ Previous Weeks
+
+### ~~✨ 2022.03.14 - 2022.03.21 ✨~~
+
+#### `Data Structure`
+
+|                    문제 번호                     |                          문제 이름                           |                            난이도                            |
+| :----------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  [1620번](https://www.acmicpc.net/problem/1620)  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+| [14425번](https://www.acmicpc.net/problem/14425) |     [문자열 집합](https://www.acmicpc.net/problem/14425)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+|  [1269번](https://www.acmicpc.net/problem/1269)  |     [대칭 차집합](https://www.acmicpc.net/problem/1269)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+|  [1927번](https://www.acmicpc.net/problem/1927)  |       [최소 힙](https://www.acmicpc.net/problem/1927)        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| [11279번](https://www.acmicpc.net/problem/11279) |       [최대 힙](https://www.acmicpc.net/problem/11279)       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+| [19583번](https://www.acmicpc.net/problem/19583) |   [싸이버개강총회](https://www.acmicpc.net/problem/19583)    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| [11286번](https://www.acmicpc.net/problem/11286) |      [절대값 힙](https://www.acmicpc.net/problem/11286)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+|  [4358번](https://www.acmicpc.net/problem/4358)  |        [생태학](https://www.acmicpc.net/problem/4358)        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+
+<br/>
+
+
+### ~~✨ 2022.02.28 - 2022.03.06 ✨~~
+
+> 제출 완료 : [MakeMoneying](https://github.com/Jihyeok11) , [cubodado](https://github.com/cubodado)
+
+#### `Data Structure`
+
+|                    문제 번호                     |                       문제 이름                       |                            난이도                            |
+| :----------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------------: |
+|  [4949번](https://www.acmicpc.net/problem/4949)  | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+|  [3986번](https://www.acmicpc.net/problem/3986)  |   [좋은 단어](https://www.acmicpc.net/problem/3986)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+| [10799번](https://www.acmicpc.net/problem/10799) |   [쇠막대기](https://www.acmicpc.net/problem/10799)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+|  [1966번](https://www.acmicpc.net/problem/1966)  |   [프린터 큐](https://www.acmicpc.net/problem/1966)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+|  [2346번](https://www.acmicpc.net/problem/2346)  | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+|  [5397번](https://www.acmicpc.net/problem/5397)  |    [키로커](https://www.acmicpc.net/problem/5397)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+|  [2504번](https://www.acmicpc.net/problem/2504)  |   [괄호의 값](https://www.acmicpc.net/problem/2504)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+|  [2800번](https://www.acmicpc.net/problem/2800)  |   [괄호 제거](https://www.acmicpc.net/problem/2800)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+
+<br/>
+
+### ~~✨ 2022.02.21 - 2022.02.27 ✨~~
+
+> 제출 완료 : [MakeMoneying](https://github.com/Jihyeok11) , [cubodado](https://github.com/cubodado)
+
+#### `Data Structure`
+
+|                   문제 번호                    |                       문제 이름                       |                            난이도                            |
+| :--------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------------: |
+|  [1158](https://www.acmicpc.net/problem/1158)  | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
+| [10828](https://www.acmicpc.net/problem/10828) |     [스택](https://www.acmicpc.net/problem/10828)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+|  [9012](https://www.acmicpc.net/problem/9012)  |     [괄호](https://www.acmicpc.net/problem/9012)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+| [18258](https://www.acmicpc.net/problem/18258) |     [큐 2](https://www.acmicpc.net/problem/18258)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+|  [2164](https://www.acmicpc.net/problem/2164)  |    [카드 2](https://www.acmicpc.net/problem/2164)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+| [10866](https://www.acmicpc.net/problem/10866) |      [덱](https://www.acmicpc.net/problem/10866)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+|  [1874](https://www.acmicpc.net/problem/1874)  |   [스택 수열](https://www.acmicpc.net/problem/1874)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+|  [1935](https://www.acmicpc.net/problem/1935)  | [후위 표기식 2](https://www.acmicpc.net/problem/1935) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+
+<br/>
+
 ## 🕹 Rule
 
 * 코딩테스트 대비 문제집에 기술된 알고리즘 순서대로 진행
@@ -62,41 +139,3 @@
 * [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon)
 
 <br/>
-
-## 🗓️ This Week
-
-### ✨ 2022.02.28 - 2022.03.06 ✨
-
-#### Data Structure 1(끝!)
-
-|                   문제 번호                    |                       문제 이름                       |                            난이도                            |
-| :--------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------------: |
-| [4949번](https://www.acmicpc.net/problem/4949)  |    [균형잡힌 세상](https://www.acmicpc.net/problem/4949)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
-| [3986번](https://www.acmicpc.net/problem/3986)  |      [좋은 단어](https://www.acmicpc.net/problem/3986)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
-| [10799번](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
-| [1966번](https://www.acmicpc.net/problem/1966)  |     [프린터 큐](https://www.acmicpc.net/problem/1966)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| [2346번](https://www.acmicpc.net/problem/2346)  |     [풍선 터뜨리기](https://www.acmicpc.net/problem/2346)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| [5397번](https://www.acmicpc.net/problem/5397)   |   [키로커](https://www.acmicpc.net/problem/5397)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| [18115번](https://www.acmicpc.net/problem/18115)  | [후위 표기식 2](https://www.acmicpc.net/problem/18115) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| [2504번](https://www.acmicpc.net/problem/2504)  |     [괄호의 값](https://www.acmicpc.net/problem/2504)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-
-<br/>
-
-
-### ✨ 2022.02.21 - 2022.02.27 ✨
-
-#### `Data Structure 1`
-
-|                   문제 번호                    |                       문제 이름                       |                            난이도                            |
-| :--------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------------: |
-|  [1158](https://www.acmicpc.net/problem/1158)  | [요세푸스 문제](https://www.acmicpc.net/problem/1158) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
-| [10828](https://www.acmicpc.net/problem/10828) |     [스택](https://www.acmicpc.net/problem/10828)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
-|  [9012](https://www.acmicpc.net/problem/9012)  |     [괄호](https://www.acmicpc.net/problem/9012)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
-| [18258](https://www.acmicpc.net/problem/18258) |     [큐 2](https://www.acmicpc.net/problem/18258)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
-|  [2164](https://www.acmicpc.net/problem/2164)  |    [카드 2](https://www.acmicpc.net/problem/2164)     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
-| [10866](https://www.acmicpc.net/problem/10866) |      [덱](https://www.acmicpc.net/problem/10866)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
-|  [1874](https://www.acmicpc.net/problem/1874)  |   [스택 수열](https://www.acmicpc.net/problem/1874)   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-|  [1935](https://www.acmicpc.net/problem/1935)  | [후위 표기식 2](https://www.acmicpc.net/problem/1935) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-
-<br/>
-
