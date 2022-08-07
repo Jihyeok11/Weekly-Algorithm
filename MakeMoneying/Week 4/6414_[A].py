@@ -43,6 +43,7 @@ while 1:
             caseEnd = 1
             break
         elif inputLine[i] in Lines:
+            
             Lines[inputLine[i]].append(inputLine[i+1])
         else:
             Lines[inputLine[i]] = [inputLine[i+1]]

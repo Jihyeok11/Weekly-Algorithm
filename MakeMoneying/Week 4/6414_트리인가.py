@@ -1,52 +1,38 @@
 import sys
-from collections import defaultdict, deque
+from collections import deque, defaultdict
 sys.stdin = open("6414in.txt", 'r')
 
-flag1 = True
-case = 1
-while flag1:
-    nodes = defaultdict(list)
-    vi = defaultdict(bool)
-    root = []
-    flag2 = True
-    while flag2:
-        trees = list(map(int, sys.stdin.readline().strip().split()))
-        if not trees:
-            continue
-        elif (trees[-1] == trees[-2] == -1):
-            flag1 = False
-        for i in range(0, len(trees), 2):
-            if trees[i] == trees[i+1] == 0:
-                flag2 = False
-                continue
-            nodes[trees[i]].append(trees[i+1])
-            vi[trees[i]] = True
-            vi[trees[i+1]] = True
-            if trees[i] not in root:
-                root.append(trees[i])
-            if trees[i+1] in root:
-                root.remove(trees[i+1])
-    if not nodes:
-        print(f"Case {case} is a tree.")
-        case += 1
+
+class Node():
+    def __init__(self, item : int):
+        self.item = item
+        self.goTo = list()
+        self.comeTo = list()
+        self.visited = True
+
+rl = sys.stdin.readline
+lines = defaultdict(list)
+testCase = 0
+while True:
+    l = rl().strip()
+    if l == '-1 -1':
+        break
+    elif l == '':
         continue
-    elif len(root) != 1:
-        print(f"Case {case} is not a tree.")
-        continue
-    ba = deque(root)
-    cond = True
-    vi[ba[0]] = False
-    while ba and cond:
-        point = ba.popleft()
-        for i in nodes[point]:
-            if vi[i]:
-                vi[i] = False
-                ba.append(i)
-            else:
-                cond = False
-                break
-    if cond and (not all(vi)):
-        print(f"Case {case} is a tree.")
-    else:
-        print(f"Case {case} is not a tree.")
-    case += 1
+    zeroDiscover = False
+    li = l.split()
+    for i in range(0, len(li), 2):
+        if li[i] == li[i+1] == '0':
+            zeroDiscover = True
+            break
+        else:
+            lines[li[i]].append(li[i+1])
+    if zeroDiscover:
+        testCase += 1
+        nodes = dict()
+
+        for key in lines.keys():
+            if not key in nodes:
+
+
+        nodes = defaultdict(list)
