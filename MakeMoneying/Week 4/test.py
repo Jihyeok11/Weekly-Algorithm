@@ -1,2 +1,1 @@
-if False and True:
-    print("a")
+print(20/3)
